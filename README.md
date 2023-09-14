@@ -1,6 +1,6 @@
 
 
-<p align="center">Oi, eu sou Cauã. <br><br> </strong> Estudando focado em analise de dados. <br><br> </strong> Sou estudante do 5° semestre em Análise e Desenvolvimento de Sistemas (ADS), com ampla experiência em programação e análise de dados. Tenho habilidades sólidas em HTML, CSS e PHP, bem como conhecimentos em Java e Python. Minha expertise em Python inclui a realização de testes unitários, correções e melhorias em códigos, bem como consultas SQL.
+<p align="center">Oi, eu sou Cauã. <br><br> </strong> Estudante focado em aprender. <br><br> </strong> Sou estudante do 5° semestre em Análise e Desenvolvimento de Sistemas (ADS), com ampla experiência em programação e análise de dados. Tenho habilidades sólidas em HTML, CSS e PHP, bem como conhecimentos em Java e Python. Minha expertise em Python inclui a realização de testes unitários, correções e melhorias em códigos, bem como consultas SQL.
 
 Durante meu estágio na Caixa Econômica Federal, pude aplicar esses conhecimentos em projetos práticos, aprimorando minhas habilidades e desenvolvendo soluções eficientes. Sou familiarizado com a metodologia ágil SCRUM, o que me permitiu trabalhar de forma colaborativa e entregando resultados de qualidade.
 
